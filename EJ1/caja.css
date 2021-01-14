@@ -1,0 +1,83 @@
+.container {
+  width: 600px;
+  height: 600px;
+  background-color: aquamarine;
+}
+
+.caja1 {
+  background-color: green;
+  width: 400px;
+  height: 100px;
+  float: left
+}
+
+.caja2 {
+  background-color: lightgreen;
+  width: 200px;
+  height: 100px;
+  float: right;
+}
+
+.caja3 {
+  background-color: black;
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+
+.caja4 {
+  background-color: lightgreen;
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+.caja5 {
+  background-color: green;
+  width: 200px;
+  height: 100px;
+  float:right;
+}
+
+.caja6 {
+  background-color: lightgreen;
+  width: 200px;
+  height: 100px;
+  float: right;
+}
+
+.caja7 {
+  background-color: green;
+  width: 400px;
+  height: 100px;
+  float: left
+}
+.caja8 {
+  background-color: black;
+  width: 200px;
+  height: 200px;
+  float: right;
+}
+.caja9 {
+  background-color: lightgreen;
+  width: 400px;
+  height: 100px;
+  float: left
+}
+.caja10 {
+  background-color: green;
+  width: 200px;
+  height: 100px;
+  float: left;
+}
+.caja11 {
+  background-color: lightgreen;
+  width: 200px;
+  height: 100px;
+  float: left;
+}
+.caja12 {
+  background-color: green;
+  width: 200px;
+  height: 100px;
+  float: right;
+}
