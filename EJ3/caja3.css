@@ -1,0 +1,109 @@
+.container {
+  width: 600px;
+  background-color: aquamarine;
+  height: 600px;
+  position:absolute; left: 100px;
+}
+
+.caja1 {
+  width: 400px;
+  height: 100px;
+  background-color: green;
+  position: absolute;
+  right: auto;
+}
+
+.caja2 {
+  width: 200px;
+  height: 100px;
+  background-color: lightgreen;
+  position: absolute;
+  left: 400px;
+}
+
+.caja3 {
+  width: 200px;
+  height: 200px;
+  background-color: black;
+  position: absolute;
+  top: 100px;
+}
+
+.caja4 {
+  width: 200px;
+  height: 300px;
+  background-color: green;
+  position: absolute;
+  top: 100px;
+  left: 200px;
+}
+
+.caja5 {
+  width: 200px;
+  height: 100px;
+  background-color: green;
+  position: absolute;
+  top: 100px;
+  left: 400px;
+}
+
+.caja6 {
+  width: 200px;
+  height: 100px;
+  background-color: lightgreen;
+  position: absolute;
+  top: 200px;
+  left: 400px;
+}
+
+.caja7 {
+  width: 200px;
+  height: 100px;
+  background-color: green;
+  position: absolute;
+  top: 300px;
+}
+
+.caja8 {
+  width: 200px;
+  height: 200px;
+  background-color: black;
+  position: absolute;
+  left: 400px;
+  top: 300px;
+}
+
+.caja9 {
+  width: 200px;
+  height: 200px;
+  background-color: black;
+  position: absolute;
+  top: 400px;
+}
+
+.caja10 {
+  width: 200px;
+  height: 100px;
+  background-color: lightgreen;
+  position: absolute;
+  top: 400px;
+  left: 200px;
+}
+
+.caja11 {
+  width: 200px;
+  height: 100px;
+  background-color: lightgreen;
+  position: absolute;
+  top: 500px;
+  left: 200px;
+}
+
+.caja12 {
+  width: 200px;
+  height: 100px;
+  background-color: green;
+  position: absolute;
+  top: 500px;
+  left: 400px;
+}
